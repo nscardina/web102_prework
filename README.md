@@ -4,7 +4,7 @@ Submitted by: **Noah Scardina**
 
 **Sea Monster Crowdfunding Games** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **3** hours spent in total
+Time spent: **3.5** hours spent in total
 
 ## Required Features
 
@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src="./walkthrough.mov"></video>
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Video created with QuickTime Player.
+Video created with QuickTime Player and converted to .gif with FFmpeg using a terminal command obtained from Google AI Overview.
 
 ## Notes
 
